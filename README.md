@@ -48,18 +48,13 @@
 ---
 
 ## 🟣 Programação Orientada a Objetos (POO) – Básica
-| Módulo | Descrição |
+| Módulo | Conteúdo |
 |--------|-----------|
-| ![Intro](https://img.shields.io/badge/📘-Introducao-9b59b6) | Conceitos fundamentais de POO |
-| ![Hello](https://img.shields.io/badge/👋-Hello_World-9b59b6) | Primeiro contato com código em Java |
-| ![Classes](https://img.shields.io/badge/🏗️-Classes_nao_executaveis-9b59b6) | Estrutura de classes |
-| ![Metodos](https://img.shields.io/badge/🔧-Metodos-9b59b6) | Definição e uso de métodos |
-| ![Encapsulamento](https://img.shields.io/badge/🔒-Encapsulamento-9b59b6) | Controle de acesso e proteção de dados |
-| ![Modelagem](https://img.shields.io/badge/📐-Modelagem_OO-9b59b6) | Representação de objetos do mundo real |
-| ![Heranca](https://img.shields.io/badge/🧬-Heranca-9b59b6) | Reuso de código e hierarquia |
-| ![Polimorfismo](https://img.shields.io/badge/🎭-Polimorfismo-9b59b6) | Flexibilidade e sobrecarga de métodos |
-| ![Mestre](https://img.shields.io/badge/🏆-Para_Virar_Mestre-9b59b6) | Desafios e práticas avançadas |
-| ![Conclusao](https://img.shields.io/badge/✅-Conclusao-9b59b6) | Revisão dos principais conceitos |
+| ![Modelagem](https://img.shields.io/badge/📐-Modelagem_OO-9b59b6) | - Modelagem Orientada a Objetos <br> - Troca de variável de referência <br> - Variáveis `static` |
+| ![Heranca](https://img.shields.io/badge/🧬-Heranca-9b59b6) | - Utilização e explicação de classe pai e classe filha <br> - A anotação `@Override` <br> - Por que alterar modificadores do pai para `protected` |
+| ![Polimorfismo](https://img.shields.io/badge/🎭-Polimorfismo-9b59b6) | - Casting <br> - Classes Abstratas <br> - Métodos Abstratos |
+| ![Mestre](https://img.shields.io/badge/🏆-Para_Virar_Mestre-9b59b6) | - Comentários em Java <br> - Padrão para criação de variáveis <br> - Valores *default* para variáveis <br> - Casos não comuns de casting e atribuição <br> - Usando underline em literais <br> - Palavras-chave em Java <br> - Garbage Collector <br> - Argumentos variáveis: `varargs` <br> - Herança vs Acoplamento |
+| ![Conclusao](https://img.shields.io/badge/✅-Conclusao-9b59b6) | Revisão geral dos conceitos de POO |
 
 ---
 
