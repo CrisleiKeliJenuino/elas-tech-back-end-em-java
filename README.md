@@ -8,6 +8,14 @@
 
 ---
 
+## 🏅 Certificados
+
+> Aqui você pode acessar meus certificados conquistados ao longo da trilha de estudos e cursos complementares.
+
+[![Certificados](https://img.shields.io/badge/📂-Acessar_Certificados-2ecc71?style=for-the-badge)](./certificados)
+
+---
+
 ## 🟢 Iniciante – Primeiros Passos
 | Módulo | Descrição |
 |--------|-----------|
