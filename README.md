@@ -39,6 +39,22 @@
 
 ---
 
+## 🟣 Programação Orientada a Objetos (POO) – Básica
+| Módulo | Descrição |
+|--------|-----------|
+| ![Intro](https://img.shields.io/badge/📘-Introducao-9b59b6) | Conceitos fundamentais de POO |
+| ![Hello](https://img.shields.io/badge/👋-Hello_World-9b59b6) | Primeiro contato com código em Java |
+| ![Classes](https://img.shields.io/badge/🏗️-Classes_nao_executaveis-9b59b6) | Estrutura de classes |
+| ![Metodos](https://img.shields.io/badge/🔧-Metodos-9b59b6) | Definição e uso de métodos |
+| ![Encapsulamento](https://img.shields.io/badge/🔒-Encapsulamento-9b59b6) | Controle de acesso e proteção de dados |
+| ![Modelagem](https://img.shields.io/badge/📐-Modelagem_OO-9b59b6) | Representação de objetos do mundo real |
+| ![Heranca](https://img.shields.io/badge/🧬-Heranca-9b59b6) | Reuso de código e hierarquia |
+| ![Polimorfismo](https://img.shields.io/badge/🎭-Polimorfismo-9b59b6) | Flexibilidade e sobrecarga de métodos |
+| ![Mestre](https://img.shields.io/badge/🏆-Para_Virar_Mestre-9b59b6) | Desafios e práticas avançadas |
+| ![Conclusao](https://img.shields.io/badge/✅-Conclusao-9b59b6) | Revisão dos principais conceitos |
+
+---
+
 ## ⚡ Tecnologias e Ferramentas
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)  
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
