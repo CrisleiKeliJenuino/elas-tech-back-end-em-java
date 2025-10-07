@@ -2,17 +2,75 @@ package Animais;
 
 public class Cachorro {
 
-    public String nome;
+    private String nome;
 
-    public String cor;
+    private String cor;
 
-    public int altura;
+    private int altura;
 
-    public double peso;
+    private double peso;
 
-    public int tamanhoDoRabo;
+    private String estadoDeEspirito;
 
-    public String estadoDeEspirito;
+    private int tamanhoDoRabo;
+
+    //Contrutores padrão
+    public Cachorro(){}
+
+    //Construtores adicionais
+    Cachorro(String nome, String cor, int altura, double peso, int tamanhoDoRabo, String estadoDeEspirito){
+        this.nome = nome;
+        this.cor = cor;
+        this.altura = altura;
+        this.peso = peso;
+        this.tamanhoDoRabo = tamanhoDoRabo;
+    }
+
+    //metodos
+
+    public String getNome() {
+        return this.nome;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }   
+
+    public String getCor() {
+        return this.cor;
+    }
+
+    public void setCor(String cor) {
+        this.cor = cor;
+    }   
+
+    public int getAltura() {
+        return this.altura;
+    }   
+
+    public void setAltura(int altura) {
+        this.altura = altura;
+    }   
+
+    public double getPeso() {
+        return this.peso;
+    }   
+
+    public void setPeso(double peso) {
+        this.peso = peso;
+    }   
+
+    public int getTamanhoDoRabo() {
+        return this.tamanhoDoRabo;
+    }   
+
+    public void setTamanhoDoRabo(int tamanhoDoRabo) {
+        this.tamanhoDoRabo = tamanhoDoRabo;
+    }
+
+    public String getEstadoDeEspirito() {
+        return this.estadoDeEspirito;
+    }   
 
     public void comer() {}
 
