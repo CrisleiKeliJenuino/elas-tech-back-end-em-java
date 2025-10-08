@@ -8,11 +8,11 @@
 
 ---
 
-## 🏅 Certificados
+### 🏅 Acesse meus certificados:
 
 > Aqui você pode acessar meus certificados conquistados ao longo da trilha de estudos e cursos complementares.
 
-[![Certificados](https://img.shields.io/badge/📂-Acessar_Certificados-2ecc71?style=for-the-badge)](./certificados)
+[![Abrir Pasta de Certificados](https://img.shields.io/badge/📂-Ver_Certificados-27ae60?style=for-the-badge)](./certificados/)
 
 ---
 
